@@ -10,4 +10,4 @@ t, time period in years <br>
 r, annual rate of interest <br>
 <br>
 Output: <br>
-simple interest = p \* t \*r
+simple interest = p \* t \* r
