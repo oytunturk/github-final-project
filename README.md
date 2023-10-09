@@ -3,14 +3,13 @@ Final Project: Part 1 - GitHub UI
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-Input:
-```math
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-```
-
-Output:
+Input: <br>
+<br>
+p, principal amount <br>
+t, time period in years <br>
+r, annual rate of interest <br>
+<br>
+Output: <br>
 ```math
 $$ simple \text { } interest = p*t*r $$
 ```
