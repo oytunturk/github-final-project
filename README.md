@@ -12,5 +12,5 @@ Input:
 
 Output:
 ```math
-$$ simple\sinterest = p*t*r $$
+$$ ( simple interest ) = p*t*r $$
 ```
